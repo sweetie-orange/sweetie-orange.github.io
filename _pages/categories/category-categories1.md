@@ -1,9 +1,9 @@
 ---
-title: "Categories1"
+title: "review"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/review/
 author_profile: true
-taxonomy: Categories1
+taxonomy: review
 sidebar:
   nav: "categories"
 ---
