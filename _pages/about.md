@@ -1,8 +1,10 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "힘들고 지칠떈 달콤한 오렌지와 함께 🍊"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+
+Seoul, Korea
+Study in Naver Boostcourse
