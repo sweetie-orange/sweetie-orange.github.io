@@ -1,9 +1,9 @@
 ---
-title: "Categories3"
+title: "Math"
 layout: category
-permalink: /categories/categories3/
+permalink: /categories/math/
 author_profile: true
-taxonomy: Categories3
+taxonomy: Math
 sidebar:
   nav: "categories"
 ---
