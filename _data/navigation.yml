@@ -18,7 +18,7 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "논문리뷰"
+  - title: "Review"
     url: /categories/review/
   - title: "AI"
     url: /categories/ai/
